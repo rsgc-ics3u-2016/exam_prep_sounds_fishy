@@ -23,11 +23,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		815565EA1EE1E75100DA8944 /* A Warmup - 3 - Sounds fishy - Test Plan.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "A Warmup - 3 - Sounds fishy - Test Plan.pdf"; sourceTree = "<group>"; };
+		815565EB1EE1E75100DA8944 /* A Warmup - 3 - Sounds fishy – Algorithm.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "A Warmup - 3 - Sounds fishy – Algorithm.pdf"; sourceTree = "<group>"; };
 		81AE283B1ECB2D0E0054CFCD /* ExamPrepSoundsFishy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ExamPrepSoundsFishy; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AE283E1ECB2D0E0054CFCD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		81AE28451ECB2D880054CFCD /* A Warmup - 3 - Sounds fishy.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "A Warmup - 3 - Sounds fishy.pdf"; sourceTree = "<group>"; };
-		81AE28471ECB2E110054CFCD /* A Warmup - 3 - Sounds Fishy – Algorithm.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "A Warmup - 3 - Sounds Fishy – Algorithm.docx"; sourceTree = "<group>"; };
-		81AE28481ECB2E480054CFCD /* A Warmup - 3 - Sounds Fishy - Test Plan.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "A Warmup - 3 - Sounds Fishy - Test Plan.docx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,8 +69,8 @@
 		81AE28461ECB2D920054CFCD /* Documents */ = {
 			isa = PBXGroup;
 			children = (
-				81AE28471ECB2E110054CFCD /* A Warmup - 3 - Sounds Fishy – Algorithm.docx */,
-				81AE28481ECB2E480054CFCD /* A Warmup - 3 - Sounds Fishy - Test Plan.docx */,
+				815565EA1EE1E75100DA8944 /* A Warmup - 3 - Sounds fishy - Test Plan.pdf */,
+				815565EB1EE1E75100DA8944 /* A Warmup - 3 - Sounds fishy – Algorithm.pdf */,
 				81AE28451ECB2D880054CFCD /* A Warmup - 3 - Sounds fishy.pdf */,
 			);
 			name = Documents;
@@ -269,6 +269,7 @@
 				81AE28441ECB2D0E0054CFCD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
